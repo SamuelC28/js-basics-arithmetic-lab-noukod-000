@@ -1,6 +1,6 @@
 
 //Variables defined in the test suite:
-let oldID += 1;
+let oldID ++;
 let newID = 1000000000;
 newID = 1000000000 + oldID;
 //- currentAge
